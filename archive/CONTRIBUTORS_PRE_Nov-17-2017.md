@@ -16681,3 +16681,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: Pranv Thawait
+ - Place: Pune, India
+ - Bio: Software engineer. Graduate in from NST Pune.
+ - GitHub: [Pranav00076](https://github.com/Pranav00076)
